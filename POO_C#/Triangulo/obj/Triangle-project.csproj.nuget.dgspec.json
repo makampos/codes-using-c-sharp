@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cemdaysofcodigo\\POO_C#\\Triangle-project\\Triangle-project.csproj": {}
+    "D:\\cemdaysofcodigo\\POO_C#\\Triangulo\\Triangle-project.csproj": {}
   },
   "projects": {
-    "D:\\cemdaysofcodigo\\POO_C#\\Triangle-project\\Triangle-project.csproj": {
+    "D:\\cemdaysofcodigo\\POO_C#\\Triangulo\\Triangle-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cemdaysofcodigo\\POO_C#\\Triangle-project\\Triangle-project.csproj",
+        "projectUniqueName": "D:\\cemdaysofcodigo\\POO_C#\\Triangulo\\Triangle-project.csproj",
         "projectName": "Triangle-project",
-        "projectPath": "D:\\cemdaysofcodigo\\POO_C#\\Triangle-project\\Triangle-project.csproj",
+        "projectPath": "D:\\cemdaysofcodigo\\POO_C#\\Triangulo\\Triangle-project.csproj",
         "packagesPath": "C:\\Users\\G7\\.nuget\\packages\\",
-        "outputPath": "D:\\cemdaysofcodigo\\POO_C#\\Triangle-project\\obj\\",
+        "outputPath": "D:\\cemdaysofcodigo\\POO_C#\\Triangulo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

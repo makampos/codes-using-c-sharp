@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\cotacao\bin\Debug\netcoreapp3.1\cotacao.exe
+D:\cemdaysofcodigo\POO_C#\cotacao\bin\Debug\netcoreapp3.1\cotacao.deps.json
+D:\cemdaysofcodigo\POO_C#\cotacao\bin\Debug\netcoreapp3.1\cotacao.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\cotacao\bin\Debug\netcoreapp3.1\cotacao.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\cotacao\bin\Debug\netcoreapp3.1\cotacao.dll
+D:\cemdaysofcodigo\POO_C#\cotacao\bin\Debug\netcoreapp3.1\cotacao.pdb
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.dll
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.pdb
+D:\cemdaysofcodigo\POO_C#\cotacao\obj\Debug\netcoreapp3.1\cotacao.genruntimeconfig.cache

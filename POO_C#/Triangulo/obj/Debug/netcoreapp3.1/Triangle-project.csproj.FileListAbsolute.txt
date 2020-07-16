@@ -11,3 +11,16 @@ D:\cemdaysofcodigo\POO_C#\Triangle-project\obj\Debug\netcoreapp3.1\Triangle-proj
 D:\cemdaysofcodigo\POO_C#\Triangle-project\obj\Debug\netcoreapp3.1\Triangle-project.dll
 D:\cemdaysofcodigo\POO_C#\Triangle-project\obj\Debug\netcoreapp3.1\Triangle-project.pdb
 D:\cemdaysofcodigo\POO_C#\Triangle-project\obj\Debug\netcoreapp3.1\Triangle-project.genruntimeconfig.cache
+D:\cemdaysofcodigo\POO_C#\Triangulo\bin\Debug\netcoreapp3.1\Triangle-project.exe
+D:\cemdaysofcodigo\POO_C#\Triangulo\bin\Debug\netcoreapp3.1\Triangle-project.deps.json
+D:\cemdaysofcodigo\POO_C#\Triangulo\bin\Debug\netcoreapp3.1\Triangle-project.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\Triangulo\bin\Debug\netcoreapp3.1\Triangle-project.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\Triangulo\bin\Debug\netcoreapp3.1\Triangle-project.dll
+D:\cemdaysofcodigo\POO_C#\Triangulo\bin\Debug\netcoreapp3.1\Triangle-project.pdb
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.dll
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.pdb
+D:\cemdaysofcodigo\POO_C#\Triangulo\obj\Debug\netcoreapp3.1\Triangle-project.genruntimeconfig.cache

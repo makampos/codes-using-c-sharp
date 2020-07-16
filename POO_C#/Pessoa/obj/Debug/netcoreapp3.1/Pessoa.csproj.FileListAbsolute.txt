@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.exe
+D:\cemdaysofcodigo\POO_C#\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.deps.json
+D:\cemdaysofcodigo\POO_C#\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.dll
+D:\cemdaysofcodigo\POO_C#\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.pdb
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.dll
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.pdb
+D:\cemdaysofcodigo\POO_C#\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.genruntimeconfig.cache
