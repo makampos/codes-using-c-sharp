@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.exe
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.deps.json
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.dll
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.pdb
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.dll
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.pdb
+D:\cemdaysofcodigo\POO_C#\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.genruntimeconfig.cache
