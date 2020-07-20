@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\bin\Debug\netcoreapp3.1\exemplo_01.exe
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\bin\Debug\netcoreapp3.1\exemplo_01.deps.json
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\bin\Debug\netcoreapp3.1\exemplo_01.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\bin\Debug\netcoreapp3.1\exemplo_01.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\bin\Debug\netcoreapp3.1\exemplo_01.dll
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\bin\Debug\netcoreapp3.1\exemplo_01.pdb
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.dll
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.pdb
+D:\cemdaysofcodigo\POO_C#\Listas\exemplo_01\obj\Debug\netcoreapp3.1\exemplo_01.genruntimeconfig.cache

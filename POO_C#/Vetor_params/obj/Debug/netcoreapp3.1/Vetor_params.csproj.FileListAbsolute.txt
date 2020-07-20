@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\Vetor_params\bin\Debug\netcoreapp3.1\Vetor_params.exe
+D:\cemdaysofcodigo\POO_C#\Vetor_params\bin\Debug\netcoreapp3.1\Vetor_params.deps.json
+D:\cemdaysofcodigo\POO_C#\Vetor_params\bin\Debug\netcoreapp3.1\Vetor_params.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\Vetor_params\bin\Debug\netcoreapp3.1\Vetor_params.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\Vetor_params\bin\Debug\netcoreapp3.1\Vetor_params.dll
+D:\cemdaysofcodigo\POO_C#\Vetor_params\bin\Debug\netcoreapp3.1\Vetor_params.pdb
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.dll
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.pdb
+D:\cemdaysofcodigo\POO_C#\Vetor_params\obj\Debug\netcoreapp3.1\Vetor_params.genruntimeconfig.cache

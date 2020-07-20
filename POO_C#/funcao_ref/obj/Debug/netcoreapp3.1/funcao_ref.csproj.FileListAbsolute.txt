@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\funcao_ref\bin\Debug\netcoreapp3.1\funcao_ref.exe
+D:\cemdaysofcodigo\POO_C#\funcao_ref\bin\Debug\netcoreapp3.1\funcao_ref.deps.json
+D:\cemdaysofcodigo\POO_C#\funcao_ref\bin\Debug\netcoreapp3.1\funcao_ref.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\funcao_ref\bin\Debug\netcoreapp3.1\funcao_ref.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\funcao_ref\bin\Debug\netcoreapp3.1\funcao_ref.dll
+D:\cemdaysofcodigo\POO_C#\funcao_ref\bin\Debug\netcoreapp3.1\funcao_ref.pdb
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.dll
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.pdb
+D:\cemdaysofcodigo\POO_C#\funcao_ref\obj\Debug\netcoreapp3.1\funcao_ref.genruntimeconfig.cache

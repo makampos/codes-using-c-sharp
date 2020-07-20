@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\bin\Debug\netcoreapp3.1\exercicio.exe
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\bin\Debug\netcoreapp3.1\exercicio.deps.json
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\bin\Debug\netcoreapp3.1\exercicio.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\bin\Debug\netcoreapp3.1\exercicio.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\bin\Debug\netcoreapp3.1\exercicio.dll
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\bin\Debug\netcoreapp3.1\exercicio.pdb
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.dll
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.pdb
+D:\cemdaysofcodigo\POO_C#\Listas\exercicio\obj\Debug\netcoreapp3.1\exercicio.genruntimeconfig.cache
