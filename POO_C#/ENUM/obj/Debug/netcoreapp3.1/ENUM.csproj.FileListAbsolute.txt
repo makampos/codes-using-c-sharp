@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\ENUM\bin\Debug\netcoreapp3.1\ENUM.exe
+D:\cemdaysofcodigo\POO_C#\ENUM\bin\Debug\netcoreapp3.1\ENUM.deps.json
+D:\cemdaysofcodigo\POO_C#\ENUM\bin\Debug\netcoreapp3.1\ENUM.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\ENUM\bin\Debug\netcoreapp3.1\ENUM.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\ENUM\bin\Debug\netcoreapp3.1\ENUM.dll
+D:\cemdaysofcodigo\POO_C#\ENUM\bin\Debug\netcoreapp3.1\ENUM.pdb
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.dll
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.pdb
+D:\cemdaysofcodigo\POO_C#\ENUM\obj\Debug\netcoreapp3.1\ENUM.genruntimeconfig.cache
