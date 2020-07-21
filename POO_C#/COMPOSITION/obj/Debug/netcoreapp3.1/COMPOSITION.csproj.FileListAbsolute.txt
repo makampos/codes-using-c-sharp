@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\bin\Debug\netcoreapp3.1\COMPOSITION.exe
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\bin\Debug\netcoreapp3.1\COMPOSITION.deps.json
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\bin\Debug\netcoreapp3.1\COMPOSITION.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\bin\Debug\netcoreapp3.1\COMPOSITION.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\bin\Debug\netcoreapp3.1\COMPOSITION.dll
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\bin\Debug\netcoreapp3.1\COMPOSITION.pdb
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.dll
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.pdb
+D:\cemdaysofcodigo\POO_C#\COMPOSITION\obj\Debug\netcoreapp3.1\COMPOSITION.genruntimeconfig.cache
