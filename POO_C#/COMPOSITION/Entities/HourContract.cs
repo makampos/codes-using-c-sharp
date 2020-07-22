@@ -12,16 +12,16 @@ namespace COMPOSITION.Entities
         {           
         }
 
-        public HourContract(DateTime time, double valuePerHouse, int hours)
+        public HourContract(DateTime time, double valuePerHour, int hours)
         {
              Date = time;
-             ValuePerHour = valuePerHouse;
+             ValuePerHour = valuePerHour;
              Hours = hours;
         }
 
 
         public double TotalValue(){
             return  Hours * ValuePerHour;
-        }
+        
     }
 }
