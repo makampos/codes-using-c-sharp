@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\bin\Debug\netcoreapp3.1\COMPOSITION_TEST.exe
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\bin\Debug\netcoreapp3.1\COMPOSITION_TEST.deps.json
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\bin\Debug\netcoreapp3.1\COMPOSITION_TEST.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\bin\Debug\netcoreapp3.1\COMPOSITION_TEST.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\bin\Debug\netcoreapp3.1\COMPOSITION_TEST.dll
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\bin\Debug\netcoreapp3.1\COMPOSITION_TEST.pdb
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.dll
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.pdb
+D:\cemdaysofcodigo\POO_C#\COMPOSITION_TEST\obj\Debug\netcoreapp3.1\COMPOSITION_TEST.genruntimeconfig.cache
