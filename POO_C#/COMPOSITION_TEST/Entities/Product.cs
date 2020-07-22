@@ -12,6 +12,6 @@ namespace COMPOSITION_TEST.Entities
         {
             Name = name;
             Price = price;                    
-        }
+        }      
     }
 }

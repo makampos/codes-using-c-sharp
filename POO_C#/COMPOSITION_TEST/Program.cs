@@ -19,15 +19,14 @@ namespace COMPOSITION_TEST
            string email = Console.ReadLine();
 
             System.Console.Write("Birth date: (DD/MM/YYYY)");
-           DateTime date = DateTime.Parse(Console.ReadLine());
-
-            Client client = new Client(name, email, date);
+           DateTime birthDate = DateTime.Parse(Console.ReadLine());        
 
            System.Console.WriteLine("Enter order data");
            System.Console.Write("Status: ");
            OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
-           
-           Order order = new Order( DateTime.Now, status);
+
+           Client client = new Client(name, email, birthDate);
+           Order order = new Order( DateTime.Now, status, client);
             
 
             System.Console.Write("How Many items to this order? ");
@@ -39,18 +38,24 @@ namespace COMPOSITION_TEST
                 System.Console.Write("Product name: ");
                 string productName = Console.ReadLine();
 
-                System.Console.WriteLine("Product price: ");
-                double productPrice = Double.Parse(Console.ReadLine());
+                System.Console.Write("Product price: ");
+                double productPrice = Double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                System.Console.WriteLine("Quantity: ");
+                System.Console.Write("Quantity: ");
                 int quantityProduct = int.Parse(Console.ReadLine());
 
-                OrderItem orderItem = new OrderItem(quantityProduct, productPrice);
+                
                 Product product = new Product(productName, productPrice);
+                OrderItem orderItem = new OrderItem(quantityProduct, productPrice, product);
 
                 order.AddItem(orderItem);
                 
             }
+
+            System.Console.WriteLine("ORDER SUMMARY:");
+            System.Console.WriteLine(order);
+             
+            
 
                             
         }
