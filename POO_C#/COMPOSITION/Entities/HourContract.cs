@@ -23,5 +23,6 @@ namespace COMPOSITION.Entities
         public double TotalValue(){
             return  Hours * ValuePerHour;
         
+         }
     }
 }

@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\bin\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.exe
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\bin\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.deps.json
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\bin\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\bin\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\bin\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.dll
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\bin\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.pdb
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.dll
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.pdb
+D:\cemdaysofcodigo\POO_C#\DEMO_STRINGBUILDER\obj\Debug\netcoreapp3.1\DEMO_STRINGBUILDER.genruntimeconfig.cache
