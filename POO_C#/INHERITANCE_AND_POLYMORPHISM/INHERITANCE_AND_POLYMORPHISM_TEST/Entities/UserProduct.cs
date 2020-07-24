@@ -14,11 +14,16 @@ namespace INHERITANCE_AND_POLYMORPHISM_TEST.Entities
         {
             ManufactureDate = manufacturedDate;
         }
-
-        
-        public override  string PriceTag(string pricetag) 
+      
+        public override string PriceTag() 
         {
-            return  pricetag;
+            return Name
+            +" (used) "
+            + " $ "
+            + Price
+            + "(Manufactured date: "
+            + ManufactureDate
+            + " ) ";
         }
     }
     

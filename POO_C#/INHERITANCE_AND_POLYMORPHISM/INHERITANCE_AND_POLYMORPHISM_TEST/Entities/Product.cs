@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace INHERITANCE_AND_POLYMORPHISM_TEST.Entities
 {
@@ -18,9 +19,12 @@ namespace INHERITANCE_AND_POLYMORPHISM_TEST.Entities
             Price = price;
         }
 
-        public  virtual string  PriceTag(string pricetag)
+        public virtual string PriceTag()
         {
-           return  pricetag;
+            return Name
+            + " $ "
+            + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
+        
     }
 }

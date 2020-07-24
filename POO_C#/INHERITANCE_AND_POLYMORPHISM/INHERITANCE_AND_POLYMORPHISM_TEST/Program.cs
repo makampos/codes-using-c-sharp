@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using INHERITANCE_AND_POLYMORPHISM_TEST.Entities;
 
 namespace INHERITANCE_AND_POLYMORPHISM_TEST
@@ -21,12 +22,12 @@ namespace INHERITANCE_AND_POLYMORPHISM_TEST
                 System.Console.Write("Name ");
                 string name = Console.ReadLine();
                 System.Console.Write("Price ");
-                double price = Double.Parse(Console.ReadLine());
+                double price = Double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 if(type == 'i')
                 {
                     System.Console.Write("Customs fee ");
-                    double customsFee = Double.Parse(Console.ReadLine());
+                    double customsFee = Double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                     products.Add( new ImportedProduct(name, price,customsFee));  
                 } 
                 else if (type == 'u'){
@@ -38,6 +39,12 @@ namespace INHERITANCE_AND_POLYMORPHISM_TEST
                     products.Add(new Product(name, price));
                  }
 
+                System.Console.WriteLine("PRICE TAGS:");
+
+                foreach(Product prod in products) 
+                {
+                    System.Console.WriteLine(prod.PriceTag());
+                }
             }
         }
     }

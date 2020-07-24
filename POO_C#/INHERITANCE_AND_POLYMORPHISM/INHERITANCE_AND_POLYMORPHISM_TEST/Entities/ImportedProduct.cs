@@ -14,7 +14,14 @@ namespace INHERITANCE_AND_POLYMORPHISM_TEST.Entities
             CustomsFee = customsFee;
         }
 
-        
-
+       public override string PriceTag() 
+       {
+           return Name
+           + " $ "
+           + Price
+           + " (Customs fee: "
+           + CustomsFee
+           + " )";
+       }
     }
 }
