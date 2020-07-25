@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\bin\Debug\netcoreapp3.1\EXCEPTION_DEMO.exe
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\bin\Debug\netcoreapp3.1\EXCEPTION_DEMO.deps.json
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\bin\Debug\netcoreapp3.1\EXCEPTION_DEMO.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\bin\Debug\netcoreapp3.1\EXCEPTION_DEMO.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\bin\Debug\netcoreapp3.1\EXCEPTION_DEMO.dll
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\bin\Debug\netcoreapp3.1\EXCEPTION_DEMO.pdb
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.dll
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.pdb
+D:\cemdaysofcodigo\POO_C#\EXCEPTION\EXCEPTION_DEMO\obj\Debug\netcoreapp3.1\EXCEPTION_DEMO.genruntimeconfig.cache
