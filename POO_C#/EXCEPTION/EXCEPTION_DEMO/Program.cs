@@ -34,23 +34,16 @@ namespace EXCEPTION_DEMO
                 System.Console.Write("Check-out date (dd/MMM/yyyy): ");
                 checkOut  = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
+               string error = reservation.UpdateDates(checkIn, checkOut);
 
-                if (checkIn < now || checkOut < now) 
+                if (error != null) 
                 {
-                    System.Console.WriteLine("Error in reservation: Reservation date for updates must be future dates ");
-                } 
-                else if ( checkOut <= checkIn) 
-                {
-                        System.Console.WriteLine("Error in reservation: Check-out must be after check-in date ");
+                    System.Console.WriteLine("Error: " + error);                   
                 }
-
                 else {
-                    reservation.UpdateDates(checkIn, checkOut);
                     System.Console.WriteLine("Reservation: " + reservation);
-                }
-            }
-          
+                }                
+            }         
         }
     }
 }

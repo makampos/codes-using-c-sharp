@@ -25,10 +25,24 @@ namespace EXCEPTION_DEMO.Entities
             return (int)duration.TotalDays;
         }
 
-        public void UpdateDates(DateTime checkIn, DateTime checkOut) 
+        public string UpdateDates(DateTime checkIn, DateTime checkOut) 
         {
-            CheckIn = checkIn;
-            CheckOut = checkOut;
+
+            DateTime now = DateTime.Now;
+
+                if (checkIn < now || checkOut < now) 
+                {
+                    return "Reservation date for updates must be future dates ";
+                } 
+                if ( checkOut <= checkIn) 
+                {
+                      return "Error in reservation: Check-out must be after check-in date ";
+                }
+
+                CheckIn = checkIn;
+                CheckOut = checkOut;
+
+                return null;
         }
 
 
