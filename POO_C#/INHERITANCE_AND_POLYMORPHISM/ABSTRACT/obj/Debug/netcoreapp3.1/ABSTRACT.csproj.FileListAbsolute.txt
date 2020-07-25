@@ -1,0 +1,13 @@
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\bin\Debug\netcoreapp3.1\ABSTRACT.exe
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\bin\Debug\netcoreapp3.1\ABSTRACT.deps.json
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\bin\Debug\netcoreapp3.1\ABSTRACT.runtimeconfig.json
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\bin\Debug\netcoreapp3.1\ABSTRACT.runtimeconfig.dev.json
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\bin\Debug\netcoreapp3.1\ABSTRACT.dll
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\bin\Debug\netcoreapp3.1\ABSTRACT.pdb
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.csprojAssemblyReference.cache
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.AssemblyInfoInputs.cache
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.AssemblyInfo.cs
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.csproj.CoreCompileInputs.cache
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.dll
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.pdb
+D:\cemdaysofcodigo\POO_C#\INHERITANCE_AND_POLYMORPHISM\ABSTRACT\obj\Debug\netcoreapp3.1\ABSTRACT.genruntimeconfig.cache
