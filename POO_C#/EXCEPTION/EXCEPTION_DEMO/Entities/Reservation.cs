@@ -1,4 +1,5 @@
 using System;
+using EXCEPTION_DEMO.Entities.Exceptions;
 
 namespace EXCEPTION_DEMO.Entities
 {
@@ -12,11 +13,15 @@ namespace EXCEPTION_DEMO.Entities
         {            
         }
 
-        public Reservation(int roomnumber, DateTime checkin, DateTime checkout )
+        public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut )
         {
-            RoomNumber = roomnumber;
-            CheckIn = checkin;
-            CheckOut = checkout;
+            if ( checkOut <= checkIn) 
+            {
+                throw new DomainException("Error in reservation: Check-out must be after check-in date ");
+            }
+            RoomNumber = roomNumber;
+            CheckIn = checkIn;
+            CheckOut = checkOut;
         }
 
         public int Duration() 
@@ -25,24 +30,22 @@ namespace EXCEPTION_DEMO.Entities
             return (int)duration.TotalDays;
         }
 
-        public string UpdateDates(DateTime checkIn, DateTime checkOut) 
+        public void UpdateDates(DateTime checkIn, DateTime checkOut) 
         {
 
             DateTime now = DateTime.Now;
 
                 if (checkIn < now || checkOut < now) 
                 {
-                    return "Reservation date for updates must be future dates ";
+                    throw new DomainException("Reservation date for updates must be future dates ");
                 } 
                 if ( checkOut <= checkIn) 
                 {
-                      return "Error in reservation: Check-out must be after check-in date ";
+                      throw new DomainException("Error in reservation: Check-out must be after check-in date ");
                 }
 
                 CheckIn = checkIn;
-                CheckOut = checkOut;
-
-                return null;
+                CheckOut = checkOut;                
         }
 
 
