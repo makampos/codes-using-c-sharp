@@ -1,0 +1,13 @@
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/bin/Debug/netcoreapp3.1/solucao_sem_interface
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/bin/Debug/netcoreapp3.1/solucao_sem_interface.deps.json
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/bin/Debug/netcoreapp3.1/solucao_sem_interface.runtimeconfig.json
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/bin/Debug/netcoreapp3.1/solucao_sem_interface.runtimeconfig.dev.json
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/bin/Debug/netcoreapp3.1/solucao_sem_interface.dll
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/bin/Debug/netcoreapp3.1/solucao_sem_interface.pdb
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.csprojAssemblyReference.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.AssemblyInfoInputs.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.AssemblyInfo.cs
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.csproj.CoreCompileInputs.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.dll
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.pdb
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/solucao_sem_interface/obj/Debug/netcoreapp3.1/solucao_sem_interface.genruntimeconfig.cache
