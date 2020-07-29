@@ -1,0 +1,13 @@
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/bin/Debug/netcoreapp3.1/contrato
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/bin/Debug/netcoreapp3.1/contrato.deps.json
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/bin/Debug/netcoreapp3.1/contrato.runtimeconfig.json
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/bin/Debug/netcoreapp3.1/contrato.runtimeconfig.dev.json
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/bin/Debug/netcoreapp3.1/contrato.dll
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/bin/Debug/netcoreapp3.1/contrato.pdb
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.csprojAssemblyReference.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.AssemblyInfoInputs.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.AssemblyInfo.cs
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.csproj.CoreCompileInputs.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.dll
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.pdb
+/home/makampos/Documents/dev/codes-using-c-sharp/POO_C#/INTERFACE/contrato/obj/Debug/netcoreapp3.1/contrato.genruntimeconfig.cache
