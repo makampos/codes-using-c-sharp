@@ -1,0 +1,13 @@
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/bin/Debug/netcoreapp3.1/generics_1
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/bin/Debug/netcoreapp3.1/generics_1.deps.json
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/bin/Debug/netcoreapp3.1/generics_1.runtimeconfig.json
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/bin/Debug/netcoreapp3.1/generics_1.runtimeconfig.dev.json
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/bin/Debug/netcoreapp3.1/generics_1.dll
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/bin/Debug/netcoreapp3.1/generics_1.pdb
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.csprojAssemblyReference.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.AssemblyInfoInputs.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.AssemblyInfo.cs
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.csproj.CoreCompileInputs.cache
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.dll
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.pdb
+/home/makampos/Documents/dev/codes-using-c-sharp/GENERICS_SET_DICTIONARY/generics_1/obj/Debug/netcoreapp3.1/generics_1.genruntimeconfig.cache
